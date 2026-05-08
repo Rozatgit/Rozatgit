@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Shahroz 👋
 
-### 👨‍💻 Full Stack Web Developer | 4+ Years Experience
+### 👨‍💻 Full Stack Web Developer - 4+ Years Experience
 
 I specialize in building **scalable, secure, and business-focused** web applications and modern landing pages. My focus is on delivering high-performance digital products that drive results.
 
