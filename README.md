@@ -35,11 +35,6 @@ I specialize in building **scalable, secure, and business-focused** web applicat
 ---
 
 ### 📫 Let's Connect
-I'm always open to collaborating on innovative projects or discussing new ideas.
-*   **Email:** [muhammadshahrozup@gmail.com](mailto:muhammadshahrozup@gmail.com)
+Email:muhammadshahrozup@gmail.com
 
-
----
-
-### ⚡ GitHub Stats
 
