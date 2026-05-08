@@ -7,10 +7,14 @@ I specialize in building **scalable, secure, and business-focused** web applicat
 ---
 
 ### 🛠️ What I Do
-*   **Full-Stack Development:** End-to-end application architecture.
-*   **Scalable Infrastructure:** Performance-optimized backend systems.
-*   **Modern UI/UX:** Responsive, fast, and accessible frontend interfaces.
-*   **AI Integration:** Implementing LLMs and automated workflows.
+*   **Full-Stack Development:**
+*   End-to-end application architecture.
+*   **Scalable Infrastructure:**
+*    Performance-optimized backend systems.
+*   **Modern UI/UX:**
+*   Responsive, fast, and accessible frontend interfaces.
+*   **AI Integration:**
+*   Implementing LLMs and automated workflows.
 
 ---
 
@@ -28,13 +32,17 @@ I specialize in building **scalable, secure, and business-focused** web applicat
 ---
 
 ### 📊 Analytics & Growth
-*   **Monitoring:** Sentry, LogRocket, Datadog, NewRelic, UptimeRobot
-*   **Analytics:** Google Analytics, Plausible, PostHog, Mixpanel
-*   **Marketing & CRM:** Intercom, Zendesk, Crisp, Search Console, Buffer
+*   **Monitoring:**
+*   Sentry, LogRocket, Datadog, NewRelic, UptimeRobot
+*   **Analytics:**
+*   Google Analytics, Plausible, PostHog, Mixpanel
+*   **Marketing & CRM:**
+*   Intercom, Zendesk, Crisp, Search Console, Buffer
 
 ---
 
 ### 📫 Let's Connect
-Email:muhammadshahrozup@gmail.com
+**Email:**
+muhammadshahrozup@gmail.com
 
 
