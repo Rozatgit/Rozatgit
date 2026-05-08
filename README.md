@@ -1,59 +1,48 @@
-Hello & Welcome!
+# Hi there, I'm Muhammad Shahroz 👋
 
-I'M MUHAMMAD SHAHROZ  |  FULL STACK WEB DEVELOPER 
+### 👨‍💻 Full Stack Web Developer | 4+ Years Experience
 
-Experience:
-4 years of experience in building Full-stack , Scalable & Secure Web Applications & Modern Landing Pages, 
+I specialize in building **scalable, secure, and business-focused** web applications and modern landing pages. My focus is on delivering high-performance digital products that drive results.
 
-WHAT I DO:
-I build Full-stack Web Applications & Modern Landing Pages, that are Fast, Responsive, and Business-focused.
+---
 
-SKILLED IN:
+### 🛠️ What I Do
+*   **Full-Stack Development:** End-to-end application architecture.
+*   **Scalable Infrastructure:** Performance-optimized backend systems.
+*   **Modern UI/UX:** Responsive, fast, and accessible frontend interfaces.
+*   **AI Integration:** Implementing LLMs and automated workflows.
 
-◾ FRONTEND & BACKEND:
-React, NextJS, Vue, TailwindCSS, Shadcn UI, HTML, CSS, JS, TS, 
-NodeJS, Django, Flask, FastAPI, Express
+---
 
-◾ DATABASES 
-PostgreSQL, MySQL, MongoDB/Atlas
-SQLite ,Redis,Firebase,Neon DB
+### 🚀 Technical Stack
 
-◾AUTH & PAYMENTS:
-Clerk, Auth0, Firebase Auth
-Supabase Auth, NextAuth
-Stripe, Paddle,Dodo Payments, Lemon Squeezy, Polar
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Vue, TypeScript, TailwindCSS, Shadcn UI |
+| **Backend** | Node.js, Express, Django, Flask, FastAPI |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis, Firebase, Neon DB |
+| **Auth & Payments** | Clerk, Auth0, NextAuth, Stripe, Paddle, Lemon Squeezy |
+| **Cloud & DevOps** | AWS, GCP, Cloudflare, Docker, Kubernetes, Terraform, GitHub Actions |
+| **AI & Automation** | OpenAI, Anthropic, Gemini, HuggingFace, Zapier, Make.com, n8n |
 
-◾ EMAILS:
-Resend,SendGrid
-Mailgun, Postmark, Amazon SES
+---
 
-◾ STORAGE & DEPLOYMENT 
-AWS, Cloudflare,
-Google Cloud Storage
-GCP, Supabase Storage, Uploadcare
-Vercel, Netlify, Railways,Render, AWS
+### 📊 Analytics & Growth
+*   **Monitoring:** Sentry, LogRocket, Datadog, NewRelic, UptimeRobot
+*   **Analytics:** Google Analytics, Plausible, PostHog, Mixpanel
+*   **Marketing & CRM:** Intercom, Zendesk, Crisp, Search Console, Buffer
 
-◾ DOMAINS & DNS
-Namecheap, Hostinger,Cloudflare DNS
-Google Domains, SiteGround
+---
 
-◾ ANALYTICS & MONITORING 
-Google Analytics,Plausible,PostHog,Mixpanel
-DataFast, Sentry, LogRocket
-Datadog, NewRelic, UptimeRobot
+### 📫 Let's Connect
+I'm always open to collaborating on innovative projects or discussing new ideas.
 
-◾DEVOPS & AI INTEGRATION 
-Docker, Kubernetes, GitHub Actions
-CI CD, Terraform, OpenAI API
-Anthropic API, Replicate, HuggingFace, Gemini API
+*   **Email:** [muhammadshahrozup@gmail.com](mailto:muhammadshahrozup@gmail.com)
+*   **Portfolio:** [YourLinkHere.com]
+*   **LinkedIn:** [linkedin.com/in/yourprofile]
 
-◾ INTEGRATIONS & SECURITY
-Zapier, Make, n8n, Pabbly, Webhooks
-SSL, Cloudflare, WAF, Rate Limiting, Secrets Management
+---
 
-◾MARKETING, CUSTOMER SUPPORT:
-Search Console, Outrank, Buffer, Analytics, Kit, Intercom, Crisp, Zendesk, Tawk, HelpScout
-
-Have an idea 💡 let's work together.
-
-CONTACT: muhammadshahrozup@gmail.com
+### ⚡ GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
